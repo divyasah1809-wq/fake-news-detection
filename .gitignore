@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Dataset
+dataset/
+
+# Trained ML files
+model.pkl
+vectorizer.pkl
+
+# Node
+node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
