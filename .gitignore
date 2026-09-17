@@ -11,9 +11,6 @@ venv/
 # Dataset
 dataset/
 
-# Trained ML files
-model.pkl
-vectorizer.pkl
 
 # Node
 node_modules/
